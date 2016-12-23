@@ -7,7 +7,7 @@ namespace jenkins.Droid
 	[Activity(Label = "jenkins", MainLauncher = true, Icon = "@mipmap/icon")]
 	public class MainActivity : Activity
 	{
-		int count = 5;
+		int count = 6;
 
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
